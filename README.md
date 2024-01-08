@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://Keys2Learners.com.au/"><h1 align="center"> Key's 2 Learners </h1></a>
+  <a href="https://Keys2Learners.com.au/"><h1 align="center"> Keys 2 Learners Driving School </h1></a>
 </p>
 
 ## Table of Contents
@@ -13,17 +13,23 @@
 
 ## Introduction
 
-Key's 2 Learners is a local driving school business servicing the south east area of Melbourne, Australia. This repository contains the code for their website.
+Keys 2 Learners Driving School is a business servicing the south east area of Melbourne, Australia. This repository contains the code for their website.
 
 ## Features
 
-The features that the Key's 2 Learners website contains:
+The features that the Keys 2 Learners website contains:
 
 - TBD
 
 ## Built With
 
-TBD
+Built with the following technologies:
+
+- Nextjs
+- Tailwind CSS
+- Jest
+- Vercel
+- GitHub Actions
 
 ## Feedback
 
