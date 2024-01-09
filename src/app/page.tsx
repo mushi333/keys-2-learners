@@ -1,11 +1,26 @@
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import Header from "@/components/Header";
+import Hero from "@/components/About";
+import Footer from "@/components/Footer";
+import Welcome from "@/components/Welcome";
+import Gallery from "@/components/Gallery";
+import Pricing from "@/components/Pricing";
+import Faq from "@/components/Faq";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="w-full">
       <Header />
-      <div className="min-h-screen">Main content here!</div>
+      <Welcome />
+      <Hero />
+      <div className="divider"></div>
+      <Gallery />
+      <div className="divider"></div>
+      <Faq />
+      <div className="divider"></div>
+      <Pricing />
+      <div className="divider"></div>
+      <Contact />
       <Footer />
     </div>
   );
